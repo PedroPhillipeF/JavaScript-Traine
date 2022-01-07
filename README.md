@@ -1,2 +1,2 @@
 # JavaScript-Traine
- nada melhor do que brincar com os códigos
+Códigos feitos apartir de cursos realizados com o Prof. Gustavo Guanabara do Curso em Vídeo da plataforma YouTube
